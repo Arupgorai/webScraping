@@ -1,0 +1,18 @@
+{
+  "name": "todayproject",
+  "version": "1.0.0",
+  "description": "download content directly from website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arup Gorai",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "handlebars": "^4.0.10",
+    "path": "^0.12.7",
+    "request": "^2.81.0"
+  }
+}

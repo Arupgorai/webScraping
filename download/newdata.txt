@@ -1,0 +1,1 @@
+{"ifsc":"ICIC0002495 831229012","bank_name":"ICICI BANK","branch_address":"Icici Bank Ltd Azadnagar Branch Azadnagar Mango Near Chepapul","bank_district":"\n                                    PURBI SINGHBHUM","bank_state":"JHARKHAND","branch_Phone_number":"-","branch_code":"002495"}
